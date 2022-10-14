@@ -1,0 +1,160 @@
+body{
+    text-align: center;
+    font-family: 'Cherry Swash', cursive;;
+}
+div{
+    margin: 0px 0px opx;
+}
+body{
+    color: brown;
+    height: 100%;
+    width: 100%;
+    margin:0%;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    margin-top: 0;
+}
+
+.Intro{
+    height: 70px;
+    font-size: 2cm;
+
+}
+
+.Sub-Intro{
+    font-size: 1cm;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+
+    font-family: 'Cherry Swash', cursive;
+}
+
+h3{
+    font-family: 'Sacramento', cursive;
+}
+.top-container{
+    width: 100%;
+    position: relative;
+    padding-top: 100px;
+    background-color: powderblue
+}
+.middle-container{
+   width: 100%;
+    background-color:#6DF1CC 
+
+}
+
+.bottom-container{
+    width:100%;
+    background-color: yellowgreen;;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    width: 20%;
+}
+
+.top-cloud{
+    position: absolute;
+    left: 900px;
+    top: 200px;
+    width: 20%;
+
+}
+
+.mountain{
+    width: 50%;
+}
+    
+.me{
+    width: 15%;
+    height: 15%;
+    padding-top: 100px;
+}
+
+hr{
+    width: 40%;
+    border-color: white;
+    border-style: dotted none none;
+    border-width: 5px;
+}
+.last{
+    padding: 50px;
+    font-size: 1.5cm;
+}
+.site{
+    
+    height: 250px;
+    width: 250px;
+    padding-left: 50px;
+    padding-right: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pc{
+    height: 250px;
+    width: 250px;
+    padding-left: 50px;
+    padding-right: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.h{
+    text-align: right;
+    padding-right: 200px;
+    width: 650px;
+    font-size: 1.5cm;
+}
+
+.h-2{
+    text-align: right;
+    padding-left: 200px;
+    width: 650px;
+    font-size: 0.7cm
+
+}
+.header{
+    text-align: left;
+    padding-left: 200px;
+    width: 650px;
+    font-size: 1.5cm;
+}
+
+.header-2{
+    text-align: left;
+    padding-left: 200px;
+    width: 650px;
+    font-size: 0.7cm;
+}
+
+
+.d1{
+    width: 100%;
+}
+.d2{
+    width: 100%;
+}
+.tired{
+    font-size: 0.7cm;
+    padding-bottom: 10%;
+}
+.tired-2{
+    font-size: 1.5cm;
+}
+.please{
+    font-size: 1.5cm;
+    padding-top: 10%;
+}
+a{
+    font-size: x-large;
+}
+.l{
+    font-size: 00.7cm;
+}
