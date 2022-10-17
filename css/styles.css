@@ -1,0 +1,168 @@
+
+div{
+    margin: 0px 0px 0px;
+}
+body{
+    color: brown;
+    text-align: center;
+    font-family: 'Cherry Swash', cursive;
+    margin: auto;
+    height: 100%;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    margin-top: 0;
+}
+
+.Intro{
+    height: 70px;
+    font-size: 472.5%;
+
+}
+
+.Sub-Intro{
+    font-size: 236.25%;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+
+    font-family: 'Cherry Swash', cursive;
+}
+
+h3{
+    font-family: 'Sacramento', cursive;
+}
+.top-container{
+    width: 100%;
+    position: relative;
+    padding-top: 100px;
+    background-color: powderblue;
+}
+.middle-container{
+   width: 100%;
+    background-color:#6DF1CC 
+
+}
+
+.bottom-container{
+    width:100%;
+    background-color: yellowgreen;
+    padding-bottom: 1%;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    width: 20%;
+}
+
+.top-cloud{
+    position: absolute;
+    left: 900px;
+    top: 200px;
+    width: 20%;
+
+}
+
+.mountain{
+    width: 50%;
+}
+
+.me{
+    width: 15%;
+    height: 15%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+hr{
+    width: 40%;
+    border-color: white;
+    border-style: dotted none none;
+    border-width: 5px;
+}
+.last{
+    padding: 50px;
+    font-size: 354.375%;
+}
+.site{
+    
+    height: 250px;
+    width: 250px;
+    padding-left: 50px;
+    padding-right: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.pc{
+    height: 250px;
+    width: 250px;
+    padding-left: 50px;
+    padding-right: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.h{
+    text-align: right;
+    padding-right: 200px;
+    width: 650px;
+    font-size: 354.375%;
+}
+
+.h-2{
+    text-align: right;
+    padding-left: 200px;
+    width: 650px;
+    font-size: 165.625%;
+
+}
+.header{
+    text-align: left;
+    padding-left: 200px;
+    width: 650px;
+    font-size: 354.375%;
+
+}
+
+.header-2{
+    text-align: left;
+    padding-left: 200px;
+    width: 650px;
+    font-size: 165.625%;
+}
+
+
+
+.d1{
+    width: 100%;
+}
+.d2{
+    width: 100%;
+}
+.tired{
+    font-size: 165.625%;
+    padding-bottom: 10%;
+}
+
+.tired-2{
+    font-size: 354.375%;
+}
+.please{
+    font-size: 354.375%;
+    padding-top: 5%;
+}
+
+
+a{
+    font-size: x-large;
+}
+.l{
+    font-size: 300%;
+}
+.Abeg{
+    font-size: 236%;
+    
+}
